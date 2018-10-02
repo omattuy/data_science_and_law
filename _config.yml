@@ -12,10 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Otávio de Moraes Attuy # add your name
 author-img: otavio_attuy.jpg # add your photo
 about-author: Data Scientist, Lawyer and Legal Engineer # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-twitter: OtavioAttuy # add your Twitter handle
+# social-facebook: # add your Facebook handle
 social-github: omattuy # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: otavioattuy # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
