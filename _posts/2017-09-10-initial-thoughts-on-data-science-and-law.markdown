@@ -6,5 +6,3 @@ description: # Add post description (optional)
 #img: js-1.png # Add image post (optional)
 tags: [Data Science, Law, Jurimetrics] # add tag
 ---
-
-
