@@ -933,7 +933,8 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #d4d4aa;
+  color: #D1CFC7;
+  background-color: #252422;
 }
 
 .about {
@@ -975,7 +976,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #333030;
+  color: #D1CFC7;
   font-weight: 700;
 }
 
@@ -1023,7 +1024,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #D1CFC7;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1043,7 +1044,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   left: 0;
-  background-color: #515151;
+  background-color: #D1CFC7;
 }
 
 .contact .contact-title::after {
@@ -1058,7 +1059,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   right: 0;
-  background-color: #515151;
+  background-color: #D1CFC7;
 }
 
 .contact ul {
