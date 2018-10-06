@@ -938,9 +938,21 @@ table tfoot td {
 }
 
 .menu-bar {
-  margin-top: -40%;
   text-align: center;
+  border-bottom: 1px solid;
+  width: 60%;
+  color: #D1CFC7;
+  margin-bottom: 0%;
 }
+
+/*
+.menu-bar-itens {
+  text-decoration: none;
+  border-bottom: 1px solid;
+  color: rgb(255, 255, 255);
+  padding: 4%; 
+}
+*/
 
 .about {
   margin: 0 0 40px;
