@@ -940,6 +940,7 @@ table tfoot td {
 .menu-bar {
   text-align: center;
   border-bottom: 1px solid;
+  border-color: rgb(87, 87, 87);
   width: 60%;
   color: #D1CFC7;
   margin-bottom: 0%;
