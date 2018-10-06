@@ -937,6 +937,11 @@ table tfoot td {
   background-color: #252422;
 }
 
+.menu-bar {
+  margin-top: -40%;
+  text-align: center;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
@@ -1004,6 +1009,7 @@ table tfoot td {
 .content-box {
   padding: 20px;
   padding-left: 260px;
+  /*
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1013,13 +1019,16 @@ table tfoot td {
   -webkit-flex-direction: row;
       -ms-flex-direction: row;
           flex-direction: row;
+  
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
+  
   -webkit-box-align: stretch;
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
+  */
 }
 
 .contact .contact-title {
@@ -1433,6 +1442,7 @@ a.newer-posts:hover {
   }
   .content-box {
     padding: 20px 10px;
+    /*
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -1449,6 +1459,7 @@ a.newer-posts:hover {
     -webkit-align-items: stretch;
         -ms-flex-align: stretch;
             align-items: stretch;
+    */
   }
   .contact-title, .copyright {
     display: none;
