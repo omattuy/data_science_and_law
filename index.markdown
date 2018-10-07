@@ -15,7 +15,7 @@ With that in mind, this blog has been created to foster interesting discussions 
 
 In order to achieve the purpose of this blog, its content has been divided into two categories:
 
-1. ``Technical content`` - In this section, we will cover all the phases related to data analysis such as: (i) finding and gathering data; (ii) preparing the data for future analysis; (iii) analyzing the data; and (iv) presenting the findings from the analysis. Other than that, we will publish analysis based on real world cases encompassing all these phases.
+* ``Technical content`` - In this section, we will cover all the phases related to data analysis such as: (i) finding and gathering data; (ii) preparing the data for future analysis; (iii) analyzing the data; and (iv) presenting the findings from the analysis. Other than that, we will publish analysis based on real world cases encompassing all these phases.
 
 <ol>
 
@@ -23,4 +23,4 @@ The content in this section is produced for data scientists, programmers and all
 
 </ol>
 
-1. ``Non-technical content`` - Here our reader will find the most relevant information regarding the intersection of Technology and Law in the form of articles, papers, news etc.
+* ``Non-technical content`` - Here our reader will find the most relevant information regarding the intersection of Technology and Law in the form of articles, papers, news etc.
