@@ -5,8 +5,8 @@ layout: default
 <aside class="sidebar">
   <header>
     <div class="about">
-      <div class="cover-author-image">
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+      <div>
+        <a href="{{site.baseurl}}/"><img class="cover-author-image" src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
@@ -28,11 +28,13 @@ layout: default
           color: #D1CFC7;
         }
       </style>
-      <div class="menu-nav-bar"><a style="text-decoration: none;" href="/index.html"> <i class="fa fa-home" style="color:#D1CFC7; font-size:18px;"></i> &nbsp;&nbsp;&nbsp; HOME </a></div>
-      <br><br>
-      <div class="menu-nav-bar"><a style="text-decoration: none;" href="/list_posts"> <i class="fa fa-newspaper-o" style="color:#D1CFC7; font-size:18px;"></i> &nbsp;&nbsp;&nbsp; POSTS </a></div>
-      <br><br>
-      <div class="menu-nav-bar"> CONTACT ME </div>
+      <div class="body-nav-bar">
+        <div class="menu-nav-bar"><a style="text-decoration: none;" href="/index.html"> <i class="fa fa-home" style="color:#D1CFC7;"></i> &nbsp;&nbsp;&nbsp; HOME </a></div>
+        <br><br>
+        <div class="menu-nav-bar"><a style="text-decoration: none;" href="/list_posts"> <i class="fa fa-newspaper-o" style="color:#D1CFC7;"></i> &nbsp;&nbsp;&nbsp; POSTS </a></div>
+        <br><br>
+        <div class="menu-nav-bar"> CONTACT ME </div>
+      </div>
     </center>
     <!-- 
       <a href="/about">About</a>

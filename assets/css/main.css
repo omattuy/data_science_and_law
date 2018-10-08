@@ -936,7 +936,8 @@ table tfoot td {
   height: 100%;
   padding: 20px 10px;
   color: #D1CFC7;
-  background-color: #252422;
+  background-color: #3f3e3b;
+  /*background-color: #252422;*/
 }
 
 .menu-nav-bar {
@@ -944,6 +945,7 @@ table tfoot td {
   border-bottom: 1px solid;
   border-color: rgb(87, 87, 87);
   width: 60%;
+  font-size: 14px;
   color: #D1CFC7;
   margin-bottom: 0%;
 }
@@ -963,6 +965,7 @@ table tfoot td {
 }
 
 .about .cover-author-image {
+  border-radius: 5%;
   width: 100px;
   /*height: 100px;*/
   margin: 0 auto 10px;
@@ -990,11 +993,11 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  font-family: Arial, sans-serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
-  font-size: 16px;
+  font-size: 15px;
   text-transform: uppercase;
   color: #D1CFC7;
   font-weight: 700;
@@ -1113,6 +1116,13 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
+  color: #333030;
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.body-nav-bar div a:hover {
   color: #333030;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
