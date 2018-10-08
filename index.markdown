@@ -2,6 +2,7 @@
 layout: main
 ---
 
+<div class="wrap-index-content" markdown="1">
 <h1 align="center"> Data Science and Law </h1>
 
 ## What?
@@ -24,3 +25,4 @@ The content in this section is produced for data scientists, programmers and all
 </ol>
 
 * ``Non-technical content`` - Here our reader will find the most relevant information regarding the intersection of Technology and Law in the form of articles, papers, news etc.
+</div>

@@ -885,6 +885,11 @@ table tfoot td {
   position: relative;
 }
 
+.wrap-index-content {
+  padding: 20px;
+  background-color: #fff;
+}
+
 .post, .article-page {
   background-color: #fff;
 }
