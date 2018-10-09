@@ -949,6 +949,10 @@ table tfoot td {
   margin-bottom: 0%;
 }
 
+.menu-nav-bar:hover {
+  background-color: #333030;
+}
+
 /*
 .menu-bar-itens {
   text-decoration: none;
@@ -1114,14 +1118,6 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #333030;
-  -webkit-transform: scale(1.2);
-      -ms-transform: scale(1.2);
-          transform: scale(1.2);
-}
-
-.body-nav-bar div a:hover {
-  color: #333030;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);

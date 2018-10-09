@@ -29,9 +29,9 @@ layout: default
         }
       </style>
       <div class="body-nav-bar">
-        <div class="menu-nav-bar"><a style="text-decoration: none;" href="/index.html"> <i class="fa fa-home" style="color:#D1CFC7; font-size:18px;"></i> &nbsp;&nbsp;&nbsp; HOME </a></div>
+        <a style="text-decoration: none;" href="/index.html"><div class="menu-nav-bar"> <i class="fa fa-home" style="color:#D1CFC7; font-size:18px;"></i> &nbsp;&nbsp;&nbsp; HOME </a></div>
         <br><br>
-        <div class="menu-nav-bar"><a style="text-decoration: none;" href="/list_posts"> <i class="fa fa-newspaper-o" style="color:#D1CFC7; font-size:18px;"></i> &nbsp;&nbsp;&nbsp; POSTS </a></div>
+        <a style="text-decoration: none;" href="/list_posts"> <div class="menu-nav-bar"> <i class="fa fa-newspaper-o" style="color:#D1CFC7; font-size:18px;"></i> &nbsp;&nbsp;&nbsp; POSTS </a></div>
         <br><br>
         <div class="menu-nav-bar"> CONTACT ME </div>
       </div>
@@ -43,18 +43,18 @@ layout: default
   <footer>
     <section class="contact">
       <ul>
+        <!--
+        {% if site.social-medium %}
+          <li><a href="https://medium.com/@{{ site.social-twitter }}" target="_blank"><i class="fa fa-medium" style="color:#D1CFC7;" aria-hidden="true"></i></a></li>
+        {% else %}
+          <li><a href="https://medium.com/" target="_blank"><i class="fa fa-medium" style="color:#D1CFC7;" aria-hidden="true"></i></a></li>
+        {% endif %}
+        -->
         {% if site.social-twitter %}
           <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" style="color:#D1CFC7;" aria-hidden="true"></i></a></li>
         {% else %}
-          <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" style="color:#D1CFC7;" aria-hidden="true"></i></a></li>
+          <li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" style="color:#D1CFC7;" aria-hidden="true"></i></a></li>
         {% endif %}
-        <!--
-        {% if site.social-facebook %}
-          <li><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        {% else %}
-          <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        {% endif %}
-        -->
         {% if site.social-github %}
           <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github" style="color:#D1CFC7;"></i></a></li>
         {% else %}
@@ -75,6 +75,7 @@ layout: default
     <div class="copyright">
       <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
     </div>
+    <div style="font-size: 10px; text-align: center">Built with Jekyll.<br>Theme: Flexible Jekyll.</div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
