@@ -3,7 +3,7 @@ layout: post
 title: Initial Thoughts On Data Science And Law
 date: 2018-09-29 00:00:00 +0300
 description: # Add post description (optional)
-img: initial_thoughts_ds.png # Add image post (optional)
+img: initial_thoughts_ds_2.svg # Add image post (optional)
 tags: [Data Science, Jurimetrics] # add tag
 ---
 
