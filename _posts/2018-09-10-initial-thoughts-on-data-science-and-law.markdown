@@ -3,14 +3,18 @@ layout: post
 title: Initial Thoughts On Data Science And Law
 date: 2018-09-29 00:00:00 +0300
 description: # Add post description (optional)
-img: js-1.jpeg # Add image post (optional)
+img: initial_thoughts_ds.png # Add image post (optional)
 tags: [Data Science, Jurimetrics] # add tag
 ---
 
-Data analytics is important nowadays. This statement has been repeated several times and became true. It means that the majority of those that say that this area is the source of the new gold are only reverberating what has become common sense.
+Being able to analyse large amounts of data and to create value from it is at the center of most of discussions regarding new technologies nowadays. 
 
-However, it is necessary to challenge that idea. Being able to analyse data is that value? In order to answer this question, we can break it down into a few and important different questions.
+It is common sense to see statements such as "data is the new gold". Suddenly we see ourselves talking about various types of tools and techonologies such as "Data Mining", "Natural Language Processing", "R", "Python", "Artificial Intelligence", "Machine Learning" etc.
 
-First, we all know that day by day there is a growing amount of generated data. The more data we have, the more it is necessary to use tools to better understand it.
+In this blog we want to discuss and investigate what that means for the legal industry. Can we apply these technologies in the legal practice and bring real benefits for the daily activities of legal professionals? And how far can we go with the use of Data Science in the legal domain?
 
-Second, is that the case of the legal landscape? Can we say that legal professionals need to make use of technologial tools so that they are able to analyse large legal data sets? That is a valid question
+By now the reader is aware of the fact the the author of this blog did not choose to define the concept of Data Science. By defining such term we would be imposing limits to our reasoning. Given the fact that the literature on the subject is still battling about what constitutes and what does not constitute Data science, it is our decision not to be part of such a battle. We are allowing ourselves to use a broad concept of Data Science.
+
+Of course, "Law" is the other half of the equation we will be discussing here. The goal is not to analyse the use of Data Science from a legal perspective. In other terms, it is not our intention to say what is legal and what is illegal. On the contrary, "Law" is the very subject we want to use to test what Data Science can do for law firms, legal departments of companies and the government.
+
+The challenge is huge and we know it. And it is even greater if we try to go ahead with this project by not focusing on only one jurisdiction (e.g., USA, Brazil or Netherlands). Different languages and different legal systems (Civil Law vs Common Law) will definitely pose serious obstacles for a thorough investigation of Data Science applications in the legal scenario. But, as someone said, if it was easy, it would have been done already.
