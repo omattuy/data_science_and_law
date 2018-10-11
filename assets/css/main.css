@@ -51,7 +51,6 @@ h1 {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in IE.
  */
-figcaption,
 figure,
 main {
   /* 1 */
@@ -1220,12 +1219,31 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
+  clear: both;
   padding: 20px;
 }
 
+/* TODO: VOLTAR AQUI PARA ACERTAR O TAMANHO DA IMAGEM*/
+.page-image {
+  position: relative;
+  padding: 0;
+  background-color: #fafafa;
+  overflow: hidden;
+}
+
+.page-image {
+  float: left;
+  margin-left: 15%;
+}
+
 .header-page {
-  text-align: center;
-  margin: 10px 0;
+  float: left;
+  margin-top: 8%;
+  padding-left: 2%;
+  border-left: 5px solid #a0a0a0;
+  width: 40%;
+  height: 20%;
+  text-align: left;
 }
 
 .header-page .page-title {
@@ -1239,37 +1257,6 @@ a.newer-posts:hover {
   font-weight: 300;
   font-size: 12px;
   text-transform: uppercase;
-}
-
-.page-cover-image {
-  position: relative;
-  padding: 0;
-  margin: 0;
-  max-height: 500px;
-  background-color: #fafafa;
-  overflow: hidden;
-}
-
-.page-cover-image figure {
-  position: relative;
-  margin: 0;
-}
-
-.page-cover-image figcaption {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  padding-left: 20px;
-  color: rgba(255, 255, 255, 0.7);
-  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 10px;
-}
-
-.page-cover-image .page-image {
-  width: 100%;
-  height: 100%;
 }
 
 .page-footer {
