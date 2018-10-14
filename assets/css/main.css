@@ -941,14 +941,15 @@ table tfoot td {
 }
 
 .table_of_contents {
-  color: rgb(255, 255, 255);
+  color: #515151;
   padding: 1%;
-  background: #a0a0a0;
+  background: #e4e3e3;
   border-radius: 10px;
+
 }
 
 .table_of_contents_itens:hover {
-  color: #46ffe6;
+  color: #31b3a1;
 }
 
 .menu-contact-me {

@@ -7,6 +7,18 @@ img: initial_thoughts_ds_final.png # Add image post (optional)
 tags: [Data Science, Jurimetrics] # add tag
 ---
 
+<style>
+    a:link {
+        color: #515151;
+    }
+    a:visited {
+        color: #515151;
+    }
+    a:active {
+        color: #515151;
+    }
+</style>
+
 <div class="table_of_contents">
 &nbsp;&nbsp;<b>TABLE OF CONTENTS</b>
     <ul>
