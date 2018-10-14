@@ -940,6 +940,16 @@ table tfoot td {
   background-color: #515155;
 }
 
+.table_of_contents {
+  color: rgb(255, 255, 255);
+  padding: 1%;
+  background: #515155;
+}
+
+.table_of_contents_itens:hover {
+  color: #46ffe6;
+}
+
 .menu-contact-me {
   text-align: center;
   border-bottom: 1px solid;
@@ -1431,6 +1441,8 @@ a.newer-posts:hover {
   .sidebar footer {
     margin-bottom: 10px;
   }
+
+
   .about {
     text-align: center;
     max-width: 480px;
