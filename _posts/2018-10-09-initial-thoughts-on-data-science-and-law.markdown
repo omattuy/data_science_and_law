@@ -19,6 +19,8 @@ tags: [Data Science, Jurimetrics] # add tag
     }
 </style>
 
+<a name="TOC"></a>
+
 <div class="table_of_contents">
 &nbsp;&nbsp;<b>TABLE OF CONTENTS</b>
     <ul>
@@ -38,6 +40,7 @@ It is common sense to see statements such as "data is the new gold". Suddenly we
 
 However, for a legal professional, these words will probably have no meaning at all. Nonetheless, in this blog we want to discuss and investigate what all that means for the legal industry allowing for this kind of professional to understand what is behind the tech. So these are some core questions that will guide our investigations. For example, can we apply these technologies in the legal practice and bring real benefits for the daily activities of legal professionals? And how far can we go with the use of Data Science in the legal domain?
 
+[<a href="#TOC" style="text-decoration: none;">BACK TO TOP</a>]
 
 ----
 
@@ -49,6 +52,7 @@ By now the reader is aware of the fact the author of this blog did not choose to
 
 In this blog, we will consider Data Science as a set of tools and techniques that are used to gather and dissect data not only for decision making purposes, but also to bring more value to the work of those who make use of it.
 
+[<a href="#TOC" style="text-decoration: none;">BACK TO TOP</a>]
 
 ----
 
@@ -56,12 +60,16 @@ In this blog, we will consider Data Science as a set of tools and techniques tha
 
 ## What is 'Law'?
 
-Of course, "Law" is the other half of the equation we will be discussing here. The goal is not to analyse the use of Data Science from a legal perspective. In other terms, it is neither our intention to say what is legal and what is illegal nor to it is to reason about legal concepts. On the contrary, "Law" is the very subject we want to use to test what Data Science can do for law firms, legal departments of companies and the government.
+Of course, "Law" is the other half of the equation we will be discussing here. The primary goal is not to analyse the use of Data Science from a legal perspective. In other words, it is not our intention to concentrate on legal issues or to discuss legal concepts. First and foremost, "Law" is the very subject we want to use to test what Data Science can do for law firms, legal departments of companies and the government.
 
 Also, since our goal here is to be as pragmatic as possible, we will not tackle any of the following big philosophical questions: "*What is Law?*"; "*What is the nature of Law?*"; "*Is Law Science?*" etc. We will assume that any set of rules from any source is within the boundaries of "Law" and may be a valid subject matter for our investigations.
 
-> With that in mind, not only formal rules issued by a given government will be of our interest, but also those that are valid according to any group of people that accept the application of such rules.
+However, whenever we encounter relevant legal issues, we will definitely bring some light and discuss them. That will be the case for example when we discuss techniques to gather data online (web scraping), since there are some countries that simply consider it illegal.
+
+With that in mind, not only formal rules issued by a given government will be of our interest, but also those that are valid according to any group of people that accept the application of such rules.
 
 For example, *Lex Mercatoria* is a body of commercial rules that evolved centuries ago from customs and best practices in commercial activities. Turning our attention to more recent examples, we can also think of companies' policies or *International Public Law* rules. In other words, our work will neither be based on a fixed concept of "Law" nor on strict academic rules.
 
 The challenge is huge and we know it. And it is even greater if we try to go ahead with this project by not focusing on only one jurisdiction (e.g., USA, Brazil or Netherlands). Different languages and different legal systems (Civil Law vs Common Law) will definitely pose serious obstacles for a thorough investigation of Data Science applications in the legal scenario. But, as someone said, if it was easy, it would have been done already.
+
+[<a href="#TOC" style="text-decoration: none;">BACK TO TOP</a>]
