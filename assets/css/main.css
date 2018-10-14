@@ -943,7 +943,8 @@ table tfoot td {
 .table_of_contents {
   color: rgb(255, 255, 255);
   padding: 1%;
-  background: #515155;
+  background: #a0a0a0;
+  border-radius: 10px;
 }
 
 .table_of_contents_itens:hover {
