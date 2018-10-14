@@ -1212,17 +1212,16 @@ a.newer-posts:hover {
   padding: 20px;
 }
 
-/* Tamanho da imagem: width de 290px e height de 304px */
+/* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
 .page-image {
   position: relative;
   padding: 0;
   background-color: #fafafa;
   overflow: hidden;
-}
-
-.page-image {
   float: left;
+  margin-top: 3%;
   margin-left: 15%;
+  margin-right: 2%;
 }
 
 .header-page {
