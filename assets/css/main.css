@@ -1212,6 +1212,28 @@ a.newer-posts:hover {
   padding: 20px;
 }
 
+/* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
+.page-image {
+  position: relative;
+  padding: 0;
+  background-color: #fafafa;
+  overflow: hidden;
+  float: left;
+  margin-top: 3%;
+  margin-left: 15%;
+  margin-right: 2%;
+}
+
+.header-page {
+  float: left;
+  margin-top: 8%;
+  padding-left: 2%;
+  border-left: 5px solid #a0a0a0;
+  width: 40%;
+  height: 20%;
+  text-align: left;
+}
+
 .header-page .page-title {
   font-weight: 400;
   margin: 0 0 10px;
@@ -1342,27 +1364,6 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
-  /* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
-  .page-image {
-    position: relative;
-    padding: 0;
-    background-color: #fafafa;
-    overflow: hidden;
-    float: left;
-    margin-top: 3%;
-    margin-left: 15%;
-    margin-right: 2%;
-  }
-
-  .header-page {
-    float: left;
-    margin-top: 8%;
-    padding-left: 2%;
-    border-left: 5px solid #a0a0a0;
-    width: 40%;
-    height: 20%;
-    text-align: left;
-  }
 
   .post {
     width: 48%;
