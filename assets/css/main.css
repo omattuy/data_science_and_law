@@ -932,7 +932,7 @@ table tfoot td {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 200px;
   height: 100%;
   padding: 20px 10px;
   color: rgb(255, 255, 255);
@@ -1418,6 +1418,27 @@ a.newer-posts:hover {
     margin-bottom: 10px;
   }
 
+/* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
+  .page-image {
+    position: relative;
+    padding: 0;
+    background-color: #fafafa;
+    overflow: hidden;
+    display: block;
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 2%;
+  }
+
+  .header-page {
+    display: block;
+    margin-top: 8%;
+    width: 40%;
+    height: 20%;
+    text-align: left;
+  }
+/* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
+
   .about {
     text-align: center;
     max-width: 480px;
@@ -1460,26 +1481,6 @@ a.newer-posts:hover {
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
-  /* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
-  .page-image {
-    position: relative;
-    padding: 0;
-    background-color: #fafafa;
-    overflow: hidden;
-    display: block;
-    margin-top: 3%;
-    margin-left: 15%;
-    margin-right: 2%;
-  }
-
-  .header-page {
-    display: block;
-    margin-top: 8%;
-    width: 40%;
-    height: 20%;
-    text-align: left;
-  }
-
   .content-box {
     padding: 10px;
   }
