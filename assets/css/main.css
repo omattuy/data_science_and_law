@@ -1418,6 +1418,21 @@ a.newer-posts:hover {
     margin-bottom: 10px;
   }
 
+  #home_id {
+    margin-top: 10%;
+  }
+
+  .menu-nav-bar {
+    text-align: center;
+    border-bottom: 1px solid;
+    border-color: rgb(157, 150, 150);
+    width: 60%;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Calibri;
+    margin-bottom: 0%;
+  }
+
 /* COMEÇO - Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
   .page-image {
     position: relative;
