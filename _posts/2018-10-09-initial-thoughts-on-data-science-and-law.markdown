@@ -34,7 +34,7 @@ tags: [Data Science, Jurimetrics] # add tag
 
 ## Can we bring together Data Science and Law?
 
-Being able to analyse large amounts of data and to create value from it is at the center of most of discussions regarding new technologies nowadays.
+Being able to analyse large amounts of data and to create value from it is at the center in most discussions regarding new technologies nowadays.
 
 It is common sense to see statements such as "data is the new gold". Suddenly we see ourselves talking about various types of tools and techonologies such as "Data Mining", "Natural Language Processing", "R", "Python", "Artificial Intelligence", "Machine Learning" etc.
 
