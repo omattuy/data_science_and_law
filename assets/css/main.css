@@ -1426,16 +1426,20 @@ a.newer-posts:hover {
     overflow: hidden;
     display: block;
     margin-top: 3%;
-    margin-left: 15%;
-    margin-right: 2%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .header-page {
-    display: block;
+    float: none;
+    display: inline-block;
     margin-top: 8%;
+    margin: auto;
+    border-left: none;
     width: 40%;
     height: 20%;
-    text-align: left;
+    /*left: 50%;*/
+    text-align: center;
   }
 /* FIM - Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
 
