@@ -1418,7 +1418,7 @@ a.newer-posts:hover {
     margin-bottom: 10px;
   }
 
-/* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
+/* COMEÇO - Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
   .page-image {
     position: relative;
     padding: 0;
@@ -1437,7 +1437,7 @@ a.newer-posts:hover {
     height: 20%;
     text-align: left;
   }
-/* Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
+/* FIM - Tamanho da imagem - Width: máximo de 340px // Height: entre 200px e 320px */
 
   .about {
     text-align: center;
