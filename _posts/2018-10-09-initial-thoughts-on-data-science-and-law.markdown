@@ -36,7 +36,7 @@ tags: [Data Science, Jurimetrics] # add tag
 
 Being able to analyse large amounts of data and to create value from it is at the center in most discussions regarding new technologies nowadays.
 
-It is common sense to see statements such as "data is the new gold". Suddenly we see ourselves talking about various types of tools and techonologies such as "Data Mining", "Natural Language Processing", "R", "Python", "Artificial Intelligence", "Machine Learning" etc.
+It is common sense to see statements such as "data is the new gold". Suddenly we see ourselves talking about various types of tools and technologies such as "Data Mining", "Natural Language Processing", "R", "Python", "Artificial Intelligence", "Machine Learning" etc.
 
 However, for a legal professional, these words will probably have no meaning at all. Nonetheless, in this blog we want to discuss and investigate what all that means for the legal industry allowing for this kind of professional to understand what is behind the tech. So these are some core questions that will guide our investigations. For example, can we apply these technologies in the legal practice and bring real benefits for the daily activities of legal professionals? And how far can we go with the use of Data Science in the legal domain?
 
